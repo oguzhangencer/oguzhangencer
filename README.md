@@ -1,5 +1,5 @@
 # Hi 👋  I am Oğuzhan 😊
-** I am from Turkey and interested in AI, ML, DL, and Data Science. **
+**I am from Turkey and interested in AI, ML, DL, and Data Science.**
 
 ## Skills and Experience 💻
 | HTML | CSS  | Git  | MSSQL | Python  | PyTorch  | TensorFlow  | Jupyter  |
