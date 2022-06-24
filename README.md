@@ -1,5 +1,4 @@
-# Hi 👋 
-## I am Oğuzhan 😊
+# Hi 👋  I am Oğuzhan 😊
 I am from Turkey and interested in AI, ML, DL, and Data Science.
 
 ## Skills and Experience 💻
