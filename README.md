@@ -1,5 +1,5 @@
 #### Hi 👋 
-#I am Oğuzhan
+# I am Oğuzhan
 I am interested in AI, ML, DL and Data Science so I want to advance myself in these. I want to lighten people’s workloads with creative ideas.I want to write software programs that produce solutions to people’s problems.
 
 ## Skills and Experience
