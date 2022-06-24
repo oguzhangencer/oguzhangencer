@@ -9,3 +9,8 @@ I am interested in AI, ML, DL and Data Science so I want to advance myself in th
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  Python
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://pytorch.org/)  PyTorch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)  TensorFlow
+
+
+| Attempt | #1  | #2  |
+| :-----: | :-: | :-: |
+| Seconds | 301 | 283 |
