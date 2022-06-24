@@ -8,4 +8,4 @@ I am from Turkey and interested in AI, ML, DL, and Data Science.
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-g%C3%B6k-427856201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhangok" height="30" width="40" /></a>
-<a href="https://www.tensorflow.org/"><img height="40" src="https://medium.com/@isaaclascasas/tensorflow-from-source-in-ubuntu-18-4b5dcca910b9" alt="tensorflow logo" /></a>
+<a href="https://www.tensorflow.org/"><img height="40" src="https://miro.medium.com/max/1400/1*pJm1NTQ-DCJvsLvo03idZQ.png" alt="tensorflow logo" /></a>
